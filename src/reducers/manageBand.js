@@ -1,6 +1,3 @@
-import uuid from 'uuid';
-
-
 export default function manageBand(state = {
   bands: []
 }, action) {
